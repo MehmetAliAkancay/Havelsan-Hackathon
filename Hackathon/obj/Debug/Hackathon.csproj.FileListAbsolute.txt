@@ -1,0 +1,58 @@
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\bin\Debug\Hackathon.exe.config
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\bin\Debug\Hackathon.exe
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\bin\Debug\Hackathon.pdb
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.AssemblyReference.cache
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.Form1.resources
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.Properties.Resources.resources
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.exe
+C:\Users\Eray DUMAN\source\repos\Hackathon\Hackathon\obj\Debug\Hackathon.pdb
+C:\Users\becau\Desktop\Hackathon\Hackathon\bin\Debug\Hackathon.exe.config
+C:\Users\becau\Desktop\Hackathon\Hackathon\bin\Debug\Hackathon.exe
+C:\Users\becau\Desktop\Hackathon\Hackathon\bin\Debug\Hackathon.pdb
+C:\Users\becau\Desktop\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.AssemblyReference.cache
+C:\Users\becau\Desktop\Hackathon\Hackathon\obj\Debug\Hackathon.Form1.resources
+C:\Users\becau\Desktop\Hackathon\Hackathon\obj\Debug\Hackathon.Properties.Resources.resources
+C:\Users\becau\Desktop\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.GenerateResource.cache
+C:\Users\becau\Desktop\Hackathon\Hackathon\obj\Debug\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\becau\Desktop\Hackathon\Hackathon\obj\Debug\Hackathon.exe
+C:\Users\becau\Desktop\Hackathon\Hackathon\obj\Debug\Hackathon.pdb
+C:\Users\Eray DUMAN\Desktop\Hackathon\bin\Debug\Hackathon.exe.config
+C:\Users\Eray DUMAN\Desktop\Hackathon\bin\Debug\Hackathon.exe
+C:\Users\Eray DUMAN\Desktop\Hackathon\bin\Debug\Hackathon.pdb
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.csproj.AssemblyReference.cache
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.Form1.resources
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.Properties.Resources.resources
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.exe
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.pdb
+C:\Users\Eray DUMAN\Desktop\Hackathon\obj\Debug\Hackathon.TrenOzellik.resources
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\bin\Debug\Hackathon.exe.config
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\bin\Debug\Hackathon.exe
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\bin\Debug\Hackathon.pdb
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.csproj.AssemblyReference.cache
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.Form1.resources
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.Properties.Resources.resources
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.TrenlerinRotaEkrani.resources
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.TrenOzellik.resources
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.csproj.GenerateResource.cache
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.exe
+C:\Users\becau\Desktop\Hackathon\HackathonYeni\Hackathon\obj\Debug\Hackathon.pdb
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\bin\Debug\Hackathon.exe.config
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\bin\Debug\Hackathon.exe
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\bin\Debug\Hackathon.pdb
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.csproj.AssemblyReference.cache
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.Form1.resources
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.Properties.Resources.resources
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.TrenlerinRotaEkrani.resources
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.TrenOzellik.resources
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.exe
+C:\Users\Eray DUMAN\Desktop\HackathonYeni\Hackathon\obj\Debug\Hackathon.pdb
